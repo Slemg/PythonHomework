@@ -1,3 +1,3 @@
 x = "Pyt"
-y = "hon"
-print(x+y)
+x += "hon"
+print(x)
