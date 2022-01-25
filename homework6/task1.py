@@ -4,4 +4,3 @@ for i in range (len (a)):
         print(a[i])
         s = s + a[i]
 print ("сумма = ", s)
-input ()
