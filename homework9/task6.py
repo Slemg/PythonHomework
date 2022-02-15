@@ -11,7 +11,9 @@ participants = {
     "xlebich",
     "vanya",
     "nikiton",
-    "artem"
+    "artem",
+    "artem1",
+    "artem2"
 }
 for key in participants:
     if key in language:
